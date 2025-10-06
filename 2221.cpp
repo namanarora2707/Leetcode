@@ -11,6 +11,8 @@ int triangularSum(vector<int>& nums) {
 }
 int main() {
     vector<int> nums = {1, 2, 3, 4, 5};
+    vector<int> nums2 = {5};
     cout << triangularSum(nums) << endl;
+    cout << triangularSum(nums2) << endl;
     return 0;
 }
