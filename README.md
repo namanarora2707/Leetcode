@@ -16,6 +16,7 @@ day 15 - 3494.cpp,
 day 16 - 3147.cpp,
 day 17 - 3186.cpp,
 day 18 - 2273.cpp,
+
 day 19 - 3349.cpp,
 day 20 - 3350.cpp,
 day 21 - 2598.cpp,
