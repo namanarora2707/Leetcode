@@ -37,3 +37,4 @@ day 36 - 3289.cpp,
 day 37 - 3217.cpp,
 day 38 - 2257.cpp,
 day 39 - 1578.cpp,
+day 40 - 3318.cpp.
