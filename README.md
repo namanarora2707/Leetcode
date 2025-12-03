@@ -66,4 +66,4 @@ day 65 - 3512.cpp,
 day 66 - 1590.cpp,
 day 67 - 2141.cpp,
 day 68 - 3623.cpp,
-
+day 69 - 3625.cpp,
