@@ -87,10 +87,13 @@ day 86 - 955.cpp,
 day 87 - 960.cpp,
 day 88 - 2054.cpp,
 day 89 - 3074.cpp,
-day 90 -
-day 91 -
-day 92 -
-day 93 -
-day 94 -
-day 95 -
-day 96 -
+day 90 - 3075.cpp,
+day 91 - 2483.cpp,
+day 92 - 2402.cpp,
+day 93 - 1351.cpp,
+day 94 - 756.cpp,
+day 95 - 840.cpp,
+day 96 - 1970.cpp,
+day 97 - 66.cpp,
+day 98 - 961.cpp,
+day 99 - 1411.cpp,
