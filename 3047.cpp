@@ -28,7 +28,7 @@ public:
 
         return maxSide * maxSide;
     }
-};3047
+};
 int main() {
     
     return 0;
