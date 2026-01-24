@@ -6,10 +6,8 @@ public:
         while (size < n) size *= 10;
         size = (n == 10000) ? 100000 : size + 1;
         vector<int> freq(size);
-
         for (auto& num : nums)
             freq[num]++;
-
         int res = 0;
         int i = 0;
         int j = size - 1;
